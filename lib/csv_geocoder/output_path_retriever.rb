@@ -7,7 +7,7 @@ module CSVGeocoder
     def ask_for_output_path
       @prompt.ask("Where do you want to save the new CSV?",
         required: true,
-        value: "./output.csv",
+        value: "./geocoded.csv",
         convert: :path
       )
     end
