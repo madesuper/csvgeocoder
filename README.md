@@ -4,7 +4,8 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 TODO: Delete this and the text above, and describe your gem
 
-![CleanShot 2022-08-04 at 22 54 53](https://user-images.githubusercontent.com/29695801/182959650-0edc1910-a49e-4589-a8d8-faac491ef592.gif)
+![CleanShot 2022-08-04 at 22 57 16](https://user-images.githubusercontent.com/29695801/182960263-f41b3762-fa00-45eb-a8bf-d461916bbfcb.gif)
+
 
 
 ## Installation
