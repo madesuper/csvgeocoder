@@ -1,6 +1,6 @@
 # CSVGeocoder
 
-_Simple CSV geocoder CLI_
+**Simple CSV geocoder CLI**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/29695801/182960263-f41b3762-fa00-45eb-a8bf-d461916bbfcb.gif" alt="animated" />
