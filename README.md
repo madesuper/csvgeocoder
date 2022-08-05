@@ -6,17 +6,23 @@
   <img src="https://user-images.githubusercontent.com/29695801/182960263-f41b3762-fa00-45eb-a8bf-d461916bbfcb.gif" alt="animated" />
 </p>
 
+## Usage
+
+Its as easy as
+
+    $ csvgeocode
+
+1. Provide a path to your CSV
+2. Choose your output path
+3. Choose your geocoding method
+4. Choose your output columns
+5. Enjoy your geocoded CSV
+
 ## Installation
 
 Simply run
 
     $ gem install csv_geocoder
-
-## Usage
-
-run
-
-    $ csvgeocode
 
 ## Development
 
@@ -26,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/csv_geocoder.
+Bug reports and pull requests are welcome on GitHub at https://github.com/madesuper/csv_geocoder.
 
 ## License
 
