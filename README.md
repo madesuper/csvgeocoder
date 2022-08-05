@@ -1,34 +1,22 @@
 # CSVGeocoder
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/csv_geocoder`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+> The easiest way to geocode a CSV from your terminal
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/29695801/182960263-f41b3762-fa00-45eb-a8bf-d461916bbfcb.gif" alt="animated" />
 </p>
 
-
-
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'csv_geocoder'
-```
-
-And then execute:
-
-    $ bundle install
-
-Or install it yourself as:
+Simply run
 
     $ gem install csv_geocoder
 
 ## Usage
 
-TODO: Write usage instructions here
+run
+
+    $ csvgeocode
 
 ## Development
 
