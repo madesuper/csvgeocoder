@@ -1,6 +1,6 @@
 # CSVGeocoder
 
-> The easiest way to geocode a CSV from your terminal
+_Simple CSV geocoder CLI_
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/29695801/182960263-f41b3762-fa00-45eb-a8bf-d461916bbfcb.gif" alt="animated" />
@@ -8,7 +8,7 @@
 
 ## Usage
 
-Its as easy as
+Simply run
 
     $ csvgeocode
 
@@ -17,6 +17,16 @@ Its as easy as
 3. Choose your geocoding method
 4. Choose your output columns
 5. Enjoy your geocoded CSV
+
+## Geocoding methods
+
+#### Lattitude & Longitude [preferred]
+
+Just provide the CLI with your lat & lng columns
+
+#### Address
+
+Just provide the CLI with your address column
 
 ## Installation
 
