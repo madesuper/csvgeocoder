@@ -30,8 +30,6 @@ Just provide the CLI with your address column
 
 ## Installation
 
-Simply run
-
     $ gem install csv_geocoder
 
 ## Development
